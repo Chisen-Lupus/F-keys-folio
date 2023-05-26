@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetC7_2 New Net Name=X_N
+Change Net Name : Old Net Name=NetC8_2 New Net Name=X_P
+Added Member To Class: ClassName=F_keys-leonardo Member=Component RXD LED0
+Added Member To Class: ClassName=F_keys-leonardo Member=Component TXD LED0
+Added Room: Name=F_keys-leonardo

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=USB-A1
+Removed Pin From Net: NetName=+5 Pin=USB-A4
+Added Pin To Net: NetName=GND Pin=USB-B1
+Added Pin To Net: NetName=+5 Pin=USB-B4
+Added Pin To Net: NetName=+5 Pin=USB-B9
+Added Pin To Net: NetName=GND Pin=USB-B12
+Added Member To Class: ClassName=F_keys-leonardo Member=Component RXD LED0
+Added Member To Class: ClassName=F_keys-leonardo Member=Component TXD LED0
+Added Room: Name=F_keys-leonardo

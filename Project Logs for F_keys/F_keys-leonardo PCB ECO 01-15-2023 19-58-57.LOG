@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=D+ New Net Name=D_P
+Change Net Name : Old Net Name=D- New Net Name=D_N
+Change Net Name : Old Net Name=NetR1_1 New Net Name=C_P
+Change Net Name : Old Net Name=NetR2_1 New Net Name=C_N
+Added Differential Pair: Name=C
+Added Differential Pair: Name=D
+Added Member To Class: ClassName=F_keys-leonardo Member=Component RXD LED0
+Added Member To Class: ClassName=F_keys-leonardo Member=Component TXD LED0
+Added Room: Name=F_keys-leonardo

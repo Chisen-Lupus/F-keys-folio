@@ -1,0 +1,14 @@
+Added Component: Designator=5V(Point)
+Added Component: Designator=GND(Point)
+Added Component: Designator=MOSI(Point)
+Added Component: Designator=RST(Point)
+Added Pin To Net: NetName=+5 Pin=5V-1
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=MOSI Pin=MOSI-1
+Added Pin To Net: NetName=RST Pin=RST-1
+Added Member To Class: ClassName=F_keys-leonardo Member=Component 5V Point
+Added Member To Class: ClassName=F_keys-leonardo Member=Component GND Point
+Added Member To Class: ClassName=F_keys-leonardo Member=Component MOSI Point
+Added Member To Class: ClassName=F_keys-leonardo Member=Component RST Point
+Added Member To Class: ClassName=F_keys-leonardo Member=Component RXD LED0
+Added Member To Class: ClassName=F_keys-leonardo Member=Component TXD LED0

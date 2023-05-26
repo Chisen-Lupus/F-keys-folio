@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=X_N Pin=U1-16
+Removed Pin From Net: NetName=X_P Pin=U1-17
+Added Pin To Net: NetName=X_P Pin=U1-16
+Added Pin To Net: NetName=X_N Pin=U1-17
+Added Member To Class: ClassName=F_keys-leonardo Member=Component RXD LED0
+Added Member To Class: ClassName=F_keys-leonardo Member=Component TXD LED0
